@@ -15,12 +15,12 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "oXo-carbon",
+				"label": "oXocarbon",
 				"uiTheme": "vs-dark",
 				"path": "./themes/oXo-carbon-color-theme.json"
 			},
 			{
-				"label": "oXo-carbon-storm",
+				"label": "oXocarbon-storm",
 				"uiTheme": "vs-dark",
 				"path": "./themes/oXo-carbon-color-theme-storm.json"
 			}
