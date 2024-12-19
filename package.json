@@ -12,6 +12,10 @@
 	"scripts": {
 		"dev": "node src/watcher"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ronit18/oXocarbon-vsc.git"
+	},
 	"contributes": {
 		"themes": [
 			{
