@@ -23,7 +23,9 @@ Alternatively, you can install it from the [Visual Studio Code Marketplace]().
 
 ## Screenshots
 
-![dots](https://raw.githubusercontent.com/ronit18/oXocarbon-vsc/refs/heads/main/assets/dots.png)
+<p align="middle">
+  <img src="https://github.com/ronit18/oXocarbon-vsc/blob/main/assets/dots.png?raw=true" width="200" />
+</p>
 
 -   Classic
     ![js-ss](https://github.com/ronit18/oXocarbon-vsc/blob/main/assets/ss-js.png?raw=true)
