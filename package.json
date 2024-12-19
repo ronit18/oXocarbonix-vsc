@@ -9,13 +9,25 @@
 	"categories": [
 		"Themes"
 	],
+	"scripts": {
+		"dev": "node src/watcher"
+	},
 	"contributes": {
 		"themes": [
 			{
 				"label": "oXo-carbon",
 				"uiTheme": "vs-dark",
 				"path": "./themes/oXo-carbon-color-theme.json"
+			},
+			{
+				"label": "oXo-carbon-storm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/oXo-carbon-color-theme-storm.json"
 			}
 		]
+	},
+	"dependencies": {
+		"filewatcher": "^3.0.1",
+		"sharp": "^0.33.5"
 	}
 }
