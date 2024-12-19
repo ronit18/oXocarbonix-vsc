@@ -23,15 +23,15 @@ Alternatively, you can install it from the [Visual Studio Code Marketplace]().
 
 ## Screenshots
 
-![dots](./assets/dots.png)
+![dots](https://raw.githubusercontent.com/ronit18/oXocarbon-vsc/refs/heads/main/assets/dots.png)
 
 -   Classic
-    ![js-ss](./assets/ss-js.png)
-    ![py-ss](./assets/ss-py.png)
+    ![js-ss](https://github.com/ronit18/oXocarbon-vsc/blob/main/assets/ss-js.png?raw=true)
+    ![py-ss](https://github.com/ronit18/oXocarbon-vsc/blob/main/assets/ss-py.png?raw=true)
 -   Storm
-    ![js-ss-storm](./assets/ss-js-storm.png)
+    ![js-ss-storm](https://github.com/ronit18/oXocarbon-vsc/blob/main/assets/ss-js-storm.png?raw=true)
 
-    ![python-ss-storm](./assets/ss-py-storm.png)
+    ![python-ss-storm](https://github.com/ronit18/oXocarbon-vsc/blob/main/assets/ss-py-storm.png?raw=true)
 
 ## Features
 
