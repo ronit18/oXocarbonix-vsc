@@ -1,4 +1,4 @@
-# oXo-carbon Theme for VSCode
+# oXocarbonix Theme
 
 A VS Code color theme inspired by the popular Neovim [oxocarbon colorscheme](https://github.com/nyoom-engineering/oxocarbon.nvim). This extension provides two carefully crafted variants to suit different lighting conditions and preferences.
 
@@ -8,12 +8,12 @@ A VS Code color theme inspired by the popular Neovim [oxocarbon colorscheme](htt
 
 ## Variants
 
--   **oXo-carbon**: A deep, high-contrast dark theme optimized for coding clarity
+-   **oXocarbonix**: A deep, high-contrast dark theme optimized for coding clarity
 
     ![js-ss](https://github.com/ronit18/oXocarbonix-vsc/blob/main/assets/ss-js.png?raw=true)
     ![py-ss](https://github.com/ronit18/oXocarbonix-vsc/blob/main/assets/ss-py.png?raw=true)
 
--   **oXo-carbon-storm**: A balanced variant with slightly adjusted contrast and hues
+-   **oXocarbonix-storm**: A balanced variant with slightly adjusted contrast and hues
 
     ![js-ss-storm](https://github.com/ronit18/oXocarbonix-vsc/blob/main/assets/ss-js-storm.png?raw=true)
 
@@ -26,7 +26,7 @@ A VS Code color theme inspired by the popular Neovim [oxocarbon colorscheme](htt
 3. Search for "oXocarbonix"
 4. Click Install
 
-Alternatively, you can install it from the [Visual Studio Code Marketplace]().
+Alternatively, you can install it from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RonitGandhi.oxocarbonix).
 
 ## Activation
 
