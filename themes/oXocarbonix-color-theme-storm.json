@@ -1,5 +1,5 @@
 {
-    "name": "oXo-carbon dark theme",
+    "name": "oXocarbonix dark theme",
     "type": "dark",
     "colors": {
       "activityBar.background": "#252b37",
@@ -31,7 +31,7 @@
       "editorGroupHeader.tabsBackground": "#252b37",
       "editorHoverWidget.background": "#252b37",
       "editorHoverWidget.border": "#ffffff10",
-      "editorIndentGuide.background": "#404350",
+      "editorIndentGuide.background1": "#404350",
       "editorLineNumber.foreground": "#868cad50",
       "editorLink.activeForeground": "#ffffff",
       "editorSuggestWidget.background": "#252b37",

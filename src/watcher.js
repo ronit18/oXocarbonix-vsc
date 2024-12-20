@@ -11,12 +11,12 @@ function generateTheme() {
 	const { base, noitalics, storm, stormNoitalics, schema, svg } =
 		requireUncached('./theme');
 	fs.writeFile(
-		'themes/oXo-carbon-color-theme.json',
+		'themes/oXocarbonix-color-theme.json',
 		schema(base),
 		(err) => err && console.log(err)
 	);
 	fs.writeFile(
-		'themes/oXo-carbon-color-theme-storm.json',
+		'themes/oXocarbonix-color-theme-storm.json',
 		schema(storm),
 		(err) => err && console.log(err)
 	);

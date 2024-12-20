@@ -41,7 +41,7 @@ const storm = {
 
 function schema({ colors, styles }) {
 	return `{
-    "name": "oXo-carbon dark theme",
+    "name": "oXocarbonix dark theme",
     "type": "dark",
     "colors": {
       "activityBar.background": "${colors.bg}",
@@ -73,7 +73,7 @@ function schema({ colors, styles }) {
       "editorGroupHeader.tabsBackground": "${colors.bg}",
       "editorHoverWidget.background": "${colors.bg}",
       "editorHoverWidget.border": "${colors.white}10",
-      "editorIndentGuide.background": "${colors.focus}",
+      "editorIndentGuide.background1": "${colors.focus}",
       "editorLineNumber.foreground": "${colors.darkerGray}50",
       "editorLink.activeForeground": "${colors.lightBlue}",
       "editorSuggestWidget.background": "${colors.bg}",

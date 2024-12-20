@@ -2,7 +2,7 @@
 	"name": "oxocarbonix",
 	"displayName": "oXocarbonix",
 	"publisher": "RonitGandhi",
-	"description": "🎨 oXocarbon - A refined dark theme suite for Visual Studio Code, inspired by the popular Neovim colorscheme.",
+	"description": "🎨 oXocarbonix - A refined dark theme suite for Visual Studio Code, inspired by the popular Neovim colorscheme.",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.96.0"
@@ -16,19 +16,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ronit18/oXocarbon-vsc.git"
+		"url": "https://github.com/ronit18/oXocarbonix-vsc.git"
 	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "oXocarbon",
+				"label": "oXocarbonix",
 				"uiTheme": "vs-dark",
-				"path": "./themes/oXo-carbon-color-theme.json"
+				"path": "./themes/oXocarbonix-color-theme.json"
 			},
 			{
-				"label": "oXocarbon-storm",
+				"label": "oXocarbonix-storm",
 				"uiTheme": "vs-dark",
-				"path": "./themes/oXo-carbon-color-theme-storm.json"
+				"path": "./themes/oXocarbonix-color-theme-storm.json"
 			}
 		]
 	},
