@@ -3,7 +3,7 @@
 	"displayName": "oXocarbonix",
 	"publisher": "RonitGandhi",
 	"description": "🎨 oXocarbonix - A refined dark theme suite for Visual Studio Code, inspired by the popular Neovim colorscheme.",
-	"version": "0.0.3",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.96.0"
 	},
