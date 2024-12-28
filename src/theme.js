@@ -2,29 +2,21 @@ const base = {
 	colors: {
 		brightYellow: '#FA973B',
 		brightMint: '#be95ff',
-
 		lowerMint: '#3ddbd9',
 		tealGreen: '#3ACECC',
-
 		lowerBlue: '#75A5F8',
 		lightBlue: '#ffffff',
-
 		desaturatedBlue: '#77A9FF',
 		lightBluishGray: '#78a9ff',
-
 		hotRed: '#ff7eb6',
 		pink: '#be9ff5ff',
-
 		lightGray: '#dde1e6',
 		darkerGray: '#525252',
 		gray: '#a6accd',
 		darkBluishGray: '#393939',
-
-		focus: '#262626',
+		focus: '#404350',
 		bg: '#161616',
-
-		selection: '#717cb425',
-
+		selection: '#818cc425',
 		white: '#ffffff',
 		black: '#161616',
 		transparent: '#00000000',
@@ -174,7 +166,7 @@ function schema({ colors, styles }) {
       "scrollbarSlider.activeBackground": "${colors.gray}25",
       "scrollbarSlider.background": "${colors.black}80",
       "scrollbarSlider.hoverBackground": "${colors.gray}25",
-      "selection.background": "${colors.lightGray}",
+      "selection.background": "${colors.focus}",
       "sideBar.background": "${colors.bg}",
       "sideBar.foreground": "${colors.darkerGray}",
       "sideBarSectionHeader.background": "${colors.bg}",
