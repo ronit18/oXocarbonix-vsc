@@ -1,5 +1,14 @@
 # Change Log
 
+## [V1.0.3] - Jan 04, 2025
+
+- new generated png
+- Functions bold and more vibrant colors
+- Added multiline comments also in darkergrey color with italic
+- Changed colors for git decoration
+- vsc link on top
+- Maintaing a changelog
+
 ## [V1.0.2] - Dec 28, 2024
 
 - Fixed a issue #1 jupyter notebook cell colors didnt look good
