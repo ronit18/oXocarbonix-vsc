@@ -241,12 +241,12 @@
       "gitDecoration.conflictingResourceForeground": "#ff7eb6",
       "gitDecoration.deletedResourceForeground": "#ff7eb6",
       "gitDecoration.ignoredResourceForeground": "#52525270",
-      "gitDecoration.modifiedResourceForeground": "#ffffff",
-      "gitDecoration.renamedResourceForeground": "#be95ff",
+      "gitDecoration.modifiedResourceForeground": "#FA973B",
+      "gitDecoration.renamedResourceForeground": "#ffffff",
       "gitDecoration.stageDeletedResourceForeground": "#ff7eb6",
-      "gitDecoration.stageModifiedResourceForeground": "#ffffff",
+      "gitDecoration.stageModifiedResourceForeground": "#75A5F8",
       "gitDecoration.submoduleResourceForeground": "#75A5F8",
-      "gitDecoration.untrackedResourceForeground": "#be95ff",
+      "gitDecoration.untrackedResourceForeground": "#3ACECC",
       "icon.foreground": "#dde1e6",
       "imagePreview.border": "#404350",
       "inputOption.activeBackground": "#00000000",
@@ -440,14 +440,14 @@
     },
     "tokenColors": [
       {
-        "scope": ["comment", "punctuation.definition.comment"],
+        "scope": ["comment", "punctuation.definition.comment","string.quoted.docstring.multi"],
         "settings": {
           "foreground": "#525252B0",
           "fontStyle": "italic"
         }
       },
       {
-        "scope": "meta.parameters comment.block",
+        "scope": ["meta.parameters comment.block"],
         "settings": {
           "foreground": "#dde1e6",
           "fontStyle": "italic"
@@ -474,7 +474,8 @@
       {
         "scope": ["entity.name.function.method", "string.unquoted", "meta.object.member"],
         "settings": {
-          "foreground": "#ffffff"
+          "foreground": "#ffffff",
+          "fontStyle": "bold"
         }
       },
       {
@@ -486,7 +487,8 @@
       {
         "scope": ["keyword.control.flow"],
         "settings": {
-          "foreground": "#3ddbd9c0"
+          "foreground": "#3ddbd9c0",
+           "fontStyle": "italic"
         }
       },
       {
@@ -614,17 +616,28 @@
         }
       },
       {
-        "name": "Function Call",
-        "scope": "variable.function, source meta.function-call entity.name.function, source meta.function-call entity.name.function, source meta.method-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class, punctuation.definition.entity.css",
+        "name": "User-defined Function Call",
+        "scope": "variable.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.block meta.var.expr meta.function-call entity.name.function",
         "settings": {
-          "foreground": "#dde1e6d0"
+          "foreground": "#3ACECC",
+          "fontStyle": "bold"
+        }
+      },
+      
+      {
+        "name": "Predefined Function Call",
+        "scope": "support.function.console, meta.function-call support.function, source meta.method-call entity.name.function, source meta.function-call entity.name.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor",
+        "settings": {
+          "foreground": "#dde1e6",
+          "fontStyle": "bold"
         }
       },
       {
         "name": "Function/Class Name",
         "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important",
         "settings": {
-          "foreground": "#ffffff"
+          "foreground": "#ffffff",
+           "fontStyle": "bold"
         }
       },
       {
@@ -744,7 +757,8 @@
       {
         "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
         "settings": {
-          "foreground": "#77A9FF"
+          "foreground": "#77A9FF",
+           "fontStyle": "bold"
         }
       },
       {

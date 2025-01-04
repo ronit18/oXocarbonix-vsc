@@ -516,7 +516,8 @@ function schema({ colors, styles }) {
       {
         "scope": ["entity.name.function.method", "string.unquoted", "meta.object.member"],
         "settings": {
-          "foreground": "${colors.lightBlue}"
+          "foreground": "${colors.lightBlue}",
+          "fontStyle": "bold"
         }
       },
       {
@@ -528,7 +529,8 @@ function schema({ colors, styles }) {
       {
         "scope": ["keyword.control.flow"],
         "settings": {
-          "foreground": "${colors.lowerMint}c0"
+          "foreground": "${colors.lowerMint}c0",
+           "fontStyle": "italic"
         }
       },
       {
@@ -656,17 +658,28 @@ function schema({ colors, styles }) {
         }
       },
       {
-        "name": "Function Call",
-        "scope": "variable.function, source meta.function-call entity.name.function, source meta.function-call entity.name.function, source meta.method-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class, punctuation.definition.entity.css",
+        "name": "User-defined Function Call",
+        "scope": "variable.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.block meta.var.expr meta.function-call entity.name.function",
         "settings": {
-          "foreground": "${colors.lightGray}d0"
+          "foreground": "${colors.tealGreen}",
+          "fontStyle": "bold"
+        }
+      },
+      
+      {
+        "name": "Predefined Function Call",
+        "scope": "support.function.console, meta.function-call support.function, source meta.method-call entity.name.function, source meta.function-call entity.name.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor",
+        "settings": {
+          "foreground": "${colors.lightGray}",
+          "fontStyle": "bold"
         }
       },
       {
         "name": "Function/Class Name",
         "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important",
         "settings": {
-          "foreground": "${colors.lightBlue}"
+          "foreground": "${colors.lightBlue}",
+           "fontStyle": "bold"
         }
       },
       {
@@ -786,7 +799,8 @@ function schema({ colors, styles }) {
       {
         "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
         "settings": {
-          "foreground": "${colors.desaturatedBlue}"
+          "foreground": "${colors.desaturatedBlue}",
+           "fontStyle": "bold"
         }
       },
       {
