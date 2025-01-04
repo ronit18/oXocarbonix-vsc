@@ -482,14 +482,14 @@ function schema({ colors, styles }) {
     },
     "tokenColors": [
       {
-        "scope": ["comment", "punctuation.definition.comment"],
+        "scope": ["comment", "punctuation.definition.comment","string.quoted.docstring.multi"],
         "settings": {
           "foreground": "${colors.darkerGray}B0",
           "fontStyle": "${styles.fontStyle}"
         }
       },
       {
-        "scope": "meta.parameters comment.block",
+        "scope": ["meta.parameters comment.block"],
         "settings": {
           "foreground": "${colors.lightGray}",
           "fontStyle": "${styles.fontStyle}"
