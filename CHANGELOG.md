@@ -1,5 +1,9 @@
 # Change Log
 
+## [V1.0.4] - Jan 09, 2025
+
+- Removed bold because it didnt look that good
+
 ## [V1.0.3] - Jan 04, 2025
 
 - new generated png
