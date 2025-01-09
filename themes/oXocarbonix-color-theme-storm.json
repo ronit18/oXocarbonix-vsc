@@ -474,8 +474,7 @@
       {
         "scope": ["entity.name.function.method", "string.unquoted", "meta.object.member"],
         "settings": {
-          "foreground": "#ffffff",
-          "fontStyle": "bold"
+          "foreground": "#ffffff"
         }
       },
       {
@@ -628,16 +627,14 @@
         "name": "Predefined Function Call",
         "scope": "support.function.console, meta.function-call support.function, source meta.method-call entity.name.function, source meta.function-call entity.name.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor",
         "settings": {
-          "foreground": "#dde1e6",
-          "fontStyle": "bold"
+          "foreground": "#dde1e6"
         }
       },
       {
         "name": "Function/Class Name",
         "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important",
         "settings": {
-          "foreground": "#ffffff",
-           "fontStyle": "bold"
+          "foreground": "#ffffff"
         }
       },
       {

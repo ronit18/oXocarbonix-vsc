@@ -516,8 +516,7 @@ function schema({ colors, styles }) {
       {
         "scope": ["entity.name.function.method", "string.unquoted", "meta.object.member"],
         "settings": {
-          "foreground": "${colors.lightBlue}",
-          "fontStyle": "bold"
+          "foreground": "${colors.lightBlue}"
         }
       },
       {
@@ -670,16 +669,14 @@ function schema({ colors, styles }) {
         "name": "Predefined Function Call",
         "scope": "support.function.console, meta.function-call support.function, source meta.method-call entity.name.function, source meta.function-call entity.name.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor",
         "settings": {
-          "foreground": "${colors.lightGray}",
-          "fontStyle": "bold"
+          "foreground": "${colors.lightGray}"
         }
       },
       {
         "name": "Function/Class Name",
         "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important",
         "settings": {
-          "foreground": "${colors.lightBlue}",
-           "fontStyle": "bold"
+          "foreground": "${colors.lightBlue}"
         }
       },
       {
