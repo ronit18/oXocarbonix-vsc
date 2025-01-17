@@ -2,3 +2,11 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+
+node_modules
+.vscode/**
+.vscode-test/**
+.git
+src
+assets/ss-*
+assets/dots.png
