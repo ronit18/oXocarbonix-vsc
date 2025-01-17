@@ -1,5 +1,11 @@
 # Change Log
 
+# [v1.1.0] - Jan 17, 2025
+
+- more details in package.json for vsce like bugs,homepage,keywords.
+- added all the files which are not required in vsce package. To reduce the extension size
+- added index.js for a consistent view across vscode
+
 ## [V1.0.4] - Jan 09, 2025
 
 - Removed bold because it didnt look that good
