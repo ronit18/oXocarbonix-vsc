@@ -1,9 +1,23 @@
 {
 	"name": "oxocarbonix",
 	"displayName": "oXocarbonix",
+	"author": "Ronit Gandhi",
 	"publisher": "RonitGandhi",
 	"description": "🎨 oXocarbonix - A refined dark theme suite for Visual Studio Code, inspired by the popular Neovim colorscheme.",
 	"version": "1.0.4",
+	"keywords": [
+		"oxocarbon",
+		"oxocarbonix",
+		"vsc",
+		"dark",
+		"theme",
+		"neovim",
+		"colorscheme",
+		"oxo-carbon.vim"
+	],
+	"files": [
+		"index.js"
+	],
 	"engines": {
 		"vscode": "^1.96.0"
 	},
@@ -18,6 +32,11 @@
 		"type": "git",
 		"url": "https://github.com/ronit18/oXocarbonix-vsc.git"
 	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ronit18/oXocarbonix-vsc/issues"
+	},
+	"homepage": "https://github.com/ronit18/oXocarbonix-vsc#readme",
 	"contributes": {
 		"themes": [
 			{
