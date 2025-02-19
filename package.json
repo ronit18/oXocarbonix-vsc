@@ -13,7 +13,8 @@
 		"theme",
 		"neovim",
 		"colorscheme",
-		"oxo-carbon.vim"
+		"oxo-carbon.vim",
+		"storm"
 	],
 	"files": [
 		"index.js"
