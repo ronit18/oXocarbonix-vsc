@@ -1,5 +1,11 @@
 # Change Log
 
+# [v2.0.0] - Feb 20, 2025
+
+- New theme 'twilight' added
+- new tag for vscode market place
+- Removed unused variables
+
 # [v1.1.0] - Jan 17, 2025
 
 - more details in package.json for vsce like bugs,homepage,keywords.
