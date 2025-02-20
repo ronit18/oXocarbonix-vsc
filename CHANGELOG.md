@@ -1,5 +1,10 @@
 # Change Log
 
+# [v2.0.1] - Feb 20, 2025
+
+- ss added in readme
+- Added ss for new theme
+
 # [v2.0.0] - Feb 20, 2025
 
 - New theme 'twilight' added
