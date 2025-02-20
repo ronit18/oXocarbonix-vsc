@@ -39,6 +39,20 @@ const storm = {
 	},
 };
 
+const twilight = {
+	...base,
+	colors: {
+		...base.colors,
+
+		darkerGray: '#5f6787',
+		bluishGray: '#405266',
+		focus: '#272a36',
+		bg: '#151822',
+		selection: '#5b6b9025',
+		black: '#000000',
+	},
+};
+
 function schema({ colors, styles }) {
 	return `{
     "name": "oXocarbonix dark theme",
@@ -1255,4 +1269,5 @@ function svg({ colors }) {
 module.exports.schema = schema;
 module.exports.base = base;
 module.exports.storm = storm;
+module.exports.twilight = twilight;
 module.exports.svg = svg;
