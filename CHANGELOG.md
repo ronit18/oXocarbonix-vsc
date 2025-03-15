@@ -1,8 +1,9 @@
 # Change Log
 
-# [v2.1.1] - Mar 15, 2025
+# [v2.1.2] - Mar 15, 2025
 
 -   Made (, - : > <) symbols gray rather than white
+-   Changing name from obsidian to eclipse.
 
 # [v2.1.0] - Mar 15, 2025
 
