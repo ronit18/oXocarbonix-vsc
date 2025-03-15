@@ -10,21 +10,16 @@ A VS Code color theme inspired by the popular Neovim [oxocarbon colorscheme](htt
 
 ## Variants
 
-- **oXocarbonix**: A deep, high-contrast dark theme optimized for coding clarity
-
+-   **oXocarbonix**: A deep, high-contrast dark theme optimized for coding clarity
     ![js-ss](https://github.com/ronit18/oXocarbonix-vsc/blob/main/assets/ss-js.png?raw=true)
     ![py-ss](https://github.com/ronit18/oXocarbonix-vsc/blob/main/assets/ss-py.png?raw=true)
 
-- **oXocarbonix-storm**: A balanced variant with slightly adjusted contrast and hues
-
+-   **oXocarbonix-storm**: A balanced variant with slightly adjusted contrast and hues
     ![js-ss-storm](https://github.com/ronit18/oXocarbonix-vsc/blob/main/assets/ss-js-storm.png?raw=true)
-
     ![python-ss-storm](https://github.com/ronit18/oXocarbonix-vsc/blob/main/assets/ss-py-storm.png?raw=true)
 
-- **oXocarbonix-twilight**: A softer, more subdued dark theme with a twilight-inspired palette.
-
+-   **oXocarbonix-twilight**: A softer, more subdued dark theme with a twilight-inspired palette.
     ![js-ss-twilight](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-js-twilight.png?raw=true)
-
     ![py-ss-twilight](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-py-twilight.png?raw=true)
 
 ## Installation
@@ -43,17 +38,17 @@ Alternatively, you can install it from the [Visual Studio Code Marketplace](http
 
 ## Features
 
-- Carefully selected color palette for optimal readability
-- Consistent syntax highlighting across languages
-- Terminal colors included
-- Integrated terminal theme support
-- Customized workbench colors
-- Status bar themes
+-   Carefully selected color palette for optimal readability
+-   Consistent syntax highlighting across languages
+-   Terminal colors included
+-   Integrated terminal theme support
+-   Customized workbench colors
+-   Status bar themes
 
 ## Credits
 
-- Original [oxocarbon colorscheme](https://github.com/nyoom-engineering/oxocarbon.nvim) nvim theme creators
-- [Poimandres theme](https://github.com/drcmda/poimandres-theme) for the build script foundation
+-   Original [oxocarbon colorscheme](https://github.com/nyoom-engineering/oxocarbon.nvim) nvim theme creators
+-   [Poimandres theme](https://github.com/drcmda/poimandres-theme) for the build script foundation
 
 ## License
 
