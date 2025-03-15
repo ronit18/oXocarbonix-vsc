@@ -47,6 +47,8 @@ const twilight = {
 		bluishGray: '#405266',
 		darkerGray: '#5d6084',
 		selection: '#6c5da430',
+		hotRed: '#ff7eb6',
+		pink: '#c49ff5',
 		focus: '#272a36',
 		bg: '#151822',
 		black: '#000000',
