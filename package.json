@@ -56,6 +56,11 @@
 				"label": "oXocarbonix-twilight",
 				"uiTheme": "vs-dark",
 				"path": "./themes/oXocarbonix-color-theme-twilight.json"
+			},
+			{
+				"label": "oXocarbonix-obsidian",
+				"uiTheme": "vs-dark",
+				"path": "./themes/oXocarbonix-color-theme-obsidian.json"
 			}
 		]
 	},
