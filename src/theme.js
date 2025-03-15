@@ -297,7 +297,7 @@ function schema({ colors, styles }) {
       "gitDecoration.conflictingResourceForeground": "${colors.hotRed}",
       "gitDecoration.deletedResourceForeground": "${colors.hotRed}",
       "gitDecoration.ignoredResourceForeground": "${colors.darkerGray}70",
-      "gitDecoration.modifiedResourceForeground": "${colors.brightYellow}",
+      "gitDecoration.modifiedResourceForeground": "${colors.lowerBlue}",
       "gitDecoration.renamedResourceForeground": "${colors.lightBlue}",
       "gitDecoration.stageDeletedResourceForeground": "${colors.hotRed}",
       "gitDecoration.stageModifiedResourceForeground": "${colors.lowerBlue}",
