@@ -30,8 +30,8 @@ const storm = {
 	...base,
 	colors: {
 		...base.colors,
-		darkerGray: '#868cad',
-		darkBluishGray: '#607487',
+		darkerGray: '#767b9d',
+		darkBluishGray: '#506377',
 		selection: '#818cc435',
 		focus: '#404350',
 		bg: '#252b37',
@@ -44,8 +44,8 @@ const twilight = {
 	colors: {
 		...base.colors,
 
-		darkerGray: '#5f6787',
 		bluishGray: '#405266',
+		darkerGray: '#5d6084',
 		selection: '#6c5da430',
 		focus: '#272a36',
 		bg: '#151822',
