@@ -1,5 +1,14 @@
 # Change Log
 
+# [v2.1.0] - Mar 15, 2025
+
+-   Added new theme 'obsidian'
+-   some minor color changes in all colorscheme: gray, bluishgray
+-   made selection more lighter, better visibility for all colorscheme
+-   Updated ss for all colorscheme
+-   git diff:modified color change from yellow to a color of blue
+-   pink and hotred change in twilight colorscheme
+
 # [v2.0.1] - Feb 20, 2025
 
 -   ss added in readme
