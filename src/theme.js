@@ -55,7 +55,7 @@ const twilight = {
 	},
 };
 
-const obsidian = {
+const eclipse = {
 	...base,
 	colors: {
 		...base.colors,
@@ -1339,5 +1339,5 @@ module.exports.schema = schema;
 module.exports.base = base;
 module.exports.storm = storm;
 module.exports.twilight = twilight;
-module.exports.obsidian = obsidian;
+module.exports.eclipse = eclipse;
 module.exports.svg = svg;

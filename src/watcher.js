@@ -1,7 +1,7 @@
 const fs = require('fs');
 const filewatcher = require('filewatcher');
 const sharp = require('sharp');
-const { twilight, obsidian } = require('./theme');
+const { twilight, eclipse } = require('./theme');
 
 function requireUncached(module) {
 	delete require.cache[require.resolve(module)];
@@ -26,8 +26,8 @@ function generateTheme() {
 		(err) => err && console.log(err)
 	);
 	fs.writeFile(
-		'themes/oXocarbonix-color-theme-obsidian.json',
-		schema(obsidian),
+		'themes/oXocarbonix-color-theme-eclipse.json',
+		schema(eclipse),
 		(err) => err && console.log(err)
 	);
 	delete base.colors.black;
