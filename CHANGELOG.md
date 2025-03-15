@@ -1,5 +1,9 @@
 # Change Log
 
+# [v2.1.1] - Mar 15, 2025
+
+-   Made (, - : > <) symbols gray rather than white
+
 # [v2.1.0] - Mar 15, 2025
 
 -   Added new theme 'obsidian'
