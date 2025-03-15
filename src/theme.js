@@ -55,6 +55,32 @@ const twilight = {
 	},
 };
 
+const obsidian = {
+	...base,
+	colors: {
+		...base.colors,
+		brightYellow: '#FFC857',
+		brightMint: '#DB7BFF',
+		lowerMint: '#00E5DB',
+		tealGreen: '#1AB5B3',
+		lowerBlue: '#4780E6',
+		lightBlue: '#DBE9FF',
+		desaturatedBlue: '#2D88FF',
+		lightBluishGray: '#3D84E3',
+		hotRed: '#FF4D97',
+		pink: '#E54FFF',
+
+		lightGray: '#C0D5F2',
+		darkerGray: '#36425C',
+		gray: '#7C8DB8',
+		darkBluishGray: '#1A2340',
+		focus: '#1D264A',
+		bg: '#0F1631',
+		selection: '#2D88FF40',
+		black: '#070E24',
+		white: '#E8F1FF',
+	},
+};
 function schema({ colors, styles }) {
 	return `{
     "name": "oXocarbonix dark theme",
@@ -1272,4 +1298,5 @@ module.exports.schema = schema;
 module.exports.base = base;
 module.exports.storm = storm;
 module.exports.twilight = twilight;
+module.exports.obsidian = obsidian;
 module.exports.svg = svg;
