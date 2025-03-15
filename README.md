@@ -22,9 +22,9 @@ A VS Code color theme inspired by the popular Neovim [oxocarbon colorscheme](htt
     ![js-ss-twilight](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-js-twilight.png?raw=true)
     ![py-ss-twilight](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-py-twilight.png?raw=true)
 
--   **oXocarbonix-obsidian**: A modern translucent-inspired dark theme
-    ![js-ss-light](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-js-obsidian.png?raw=true)
-    ![py-ss-light](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-py-obsidian.png?raw=true)
+-   **oXocarbonix-eclipse**: A dramatic dark theme with intense contrast and radiant accents inspired by a celestial eclipse.
+    ![js-ss-eclipse](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-js-eclipse.png?raw=true)
+    ![py-ss-eclipse](https://raw.githubusercontent.com/ronit18/oXocarbonix-vsc/refs/heads/main/assets/ss-py-eclipse.png?raw=true)
 
 ## Installation
 
