@@ -16,7 +16,7 @@ const base = {
 		darkBluishGray: '#393939',
 		focus: '#404350',
 		bg: '#161616',
-		selection: '#818cc425',
+		selection: '#818cc440',
 		white: '#ffffff',
 		black: '#161616',
 		transparent: '#00000000',
@@ -32,9 +32,9 @@ const storm = {
 		...base.colors,
 		darkerGray: '#868cad',
 		darkBluishGray: '#607487',
+		selection: '#818cc435',
 		focus: '#404350',
 		bg: '#252b37',
-		selection: '#818cc425',
 		black: '#101010',
 	},
 };
@@ -46,9 +46,9 @@ const twilight = {
 
 		darkerGray: '#5f6787',
 		bluishGray: '#405266',
+		selection: '#6c5da430',
 		focus: '#272a36',
 		bg: '#151822',
-		selection: '#5b6b9025',
 		black: '#000000',
 	},
 };
