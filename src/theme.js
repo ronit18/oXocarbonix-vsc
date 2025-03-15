@@ -1226,6 +1226,48 @@ function schema({ colors, styles }) {
         }
       },
       {
+        "name": "String Quotes",
+        "scope": "punctuation.definition.string",
+        "settings": {
+          "foreground": "${colors.gray}"
+        }
+      },
+      {
+        "name": "Colon Separator",
+        "scope": "punctuation.separator.colon",
+        "settings": {
+          "foreground": "${colors.gray}"
+        }
+      },
+      {
+        "name": "Single Quote Delimiters",
+        "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
+        "settings": {
+          "foreground": "${colors.gray}"
+        }
+      },
+      {
+        "name": "Comma Separator",
+        "scope": "punctuation.separator.comma",
+        "settings": {
+          "foreground": "${colors.gray}"
+        }
+      },
+      {
+        "name": "Arrow Operator",
+        "scope": "punctuation.operator.arrow, punctuation.separator.arrow",
+        "settings": {
+          "foreground": "${colors.gray}"
+        }
+      },
+      {
+        "name": "Arrow Operator",
+        "scope": "punctuation.operator.arrow, punctuation.separator.arrow",
+        "settings": {
+          "foreground": "${colors.gray}"
+        }
+      },
+      {
         "scope": [
           "meta.link.inline.markdown string.other.link.title.markdown",
           "meta.link.reference.markdown string.other.link.title.markdown",

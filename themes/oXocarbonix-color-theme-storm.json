@@ -1142,6 +1142,48 @@
         }
       },
       {
+        "name": "String Quotes",
+        "scope": "punctuation.definition.string",
+        "settings": {
+          "foreground": "#a6accd"
+        }
+      },
+      {
+        "name": "Colon Separator",
+        "scope": "punctuation.separator.colon",
+        "settings": {
+          "foreground": "#a6accd"
+        }
+      },
+      {
+        "name": "Single Quote Delimiters",
+        "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
+        "settings": {
+          "foreground": "#a6accd"
+        }
+      },
+      {
+        "name": "Comma Separator",
+        "scope": "punctuation.separator.comma",
+        "settings": {
+          "foreground": "#a6accd"
+        }
+      },
+      {
+        "name": "Arrow Operator",
+        "scope": "punctuation.operator.arrow, punctuation.separator.arrow",
+        "settings": {
+          "foreground": "#a6accd"
+        }
+      },
+      {
+        "name": "Arrow Operator",
+        "scope": "punctuation.operator.arrow, punctuation.separator.arrow",
+        "settings": {
+          "foreground": "#a6accd"
+        }
+      },
+      {
         "scope": [
           "meta.link.inline.markdown string.other.link.title.markdown",
           "meta.link.reference.markdown string.other.link.title.markdown",
