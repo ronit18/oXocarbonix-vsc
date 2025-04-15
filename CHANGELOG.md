@@ -1,5 +1,9 @@
 # Change Log
 
+# [v.2.1.3] - Apr 15, 2025
+
+-   changed button secondary text color
+
 # [v2.1.2] - Mar 15, 2025
 
 -   Made (, - : > <) symbols gray rather than white
