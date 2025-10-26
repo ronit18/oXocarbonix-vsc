@@ -1,5 +1,12 @@
 # Change Log
 
+## [v.2.2.0] - Oct 26, 2025
+
+-   feat: More and proper colors to scrollbar. before it was not visible.
+-   changing colors of bottom bar buttons(remote desktop button)
+-   converting linehighlight to transparent for more minimal look
+-   adding theme colors to diff editor
+
 # [v.2.1.3] - Apr 15, 2025
 
 -   changed button secondary text color

@@ -10,3 +10,5 @@ node_modules
 src
 assets/ss-*
 assets/dots.png
+
+.jj/**
