@@ -102,7 +102,7 @@ function schema({ colors, styles }) {
       "editor.findMatchBorder": "${colors.lightBlue}",
       "editor.findMatchHighlightBackground": "${colors.lightBlue}40",
       "editor.foreground": "${colors.lightGray}",
-      "editor.lineHighlightBackground": "${colors.selection}",
+      "editor.lineHighlightBackground": "${colors.transparent}",
       "editor.lineHighlightBorder": "${colors.transparent}",
       "editor.selectionBackground": "${colors.selection}",
       "editor.selectionHighlightBackground": "${colors.transparent}",
