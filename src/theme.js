@@ -460,7 +460,7 @@ function schema({ colors, styles }) {
       "statusBarItem.prominentForeground": "${colors.lightGray}",
       "statusBarItem.prominentHoverBackground": "${colors.black}4d",
       "statusBarItem.remoteBackground": "${colors.hotRed}",
-      "statusBarItem.remoteForeground": "${colors.white}",
+      "statusBarItem.remoteForeground": "${colors.black}",
       "symbolIcon.arrayForeground": "${colors.lightGray}",
       "symbolIcon.booleanForeground": "${colors.lightGray}",
       "symbolIcon.classForeground": "${colors.brightYellow}",
