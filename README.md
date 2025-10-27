@@ -1,6 +1,8 @@
 # oXocarbonix Theme
 
-[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RonitGandhi.oxocarbonix).
+> [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RonitGandhi.oxocarbonix)
+
+> [Open VSX Registry](https://open-vsx.org/extension/RonitGandhi/oxocarbonix)
 
 A VS Code color theme inspired by the popular Neovim [oxocarbon colorscheme](https://github.com/nyoom-engineering/oxocarbon.nvim). This extension provides two carefully crafted variants to suit different lighting conditions and preferences.
 
