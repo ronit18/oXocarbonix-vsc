@@ -1,5 +1,11 @@
 # Change Log
 
+## [v.2.2.1] - Oct 27, 2025
+
+-   added colors for drag & drop files/editors
+-   changed colors of sidebar and bottombar to match theme overall design
+-   changing foreground(text) color to black in remoteDesktop button
+
 ## [v.2.2.0] - Oct 26, 2025
 
 -   feat: More and proper colors to scrollbar. before it was not visible.
