@@ -1,5 +1,10 @@
 # Change Log
 
+## [v.2.3.0] - Nov 14, 2025
+
+-   Improves theme Drag and drop Coloring
+-   Updates theme colors and styles, Refines the color palette and styles across multiple themes for better visual consistency and usability.
+
 ## [v.2.2.1] - Oct 27, 2025
 
 -   added colors for drag & drop files/editors
