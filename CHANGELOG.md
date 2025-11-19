@@ -1,5 +1,9 @@
 # Change Log
 
+## [v.2.3.1] - Nov 19, 2025
+
+-   Fix: black bg color on bottom panel
+
 ## [v.2.3.0] - Nov 14, 2025
 
 -   Improves theme Drag and drop Coloring
